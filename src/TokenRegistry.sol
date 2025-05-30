@@ -5,7 +5,7 @@ pragma solidity ^0.8.30;
  * @title TokenRegistry
  * @notice Manages which tokens are permitted within any EVM-compatible protocol.
  * @dev Only the contract owner can add or remove tokens
- *  @dev v2.0 will allow any DOA to add or remove tokens instead of contract owner
+ * @dev v2.0 will allow any DOA to add or remove tokens instead of contract owner
  * @custom:version v1.0
  */
 contract TokenRegistry {
