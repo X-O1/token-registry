@@ -3,7 +3,7 @@ pragma solidity ^0.8.30;
 
 /**
  * @title TokenRegistry
- * @notice Maintains a list of approved tokens for your protocol
+ * @notice Maintains a list of approved tokens for any protocol
  * @dev Only the contract owner can add or remove tokens
  * @dev v2.0 will allow any DOA to add or remove tokens instead of contract owner
  * @custom:version v1.0
